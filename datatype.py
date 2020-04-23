@@ -35,7 +35,7 @@ False
 (10, 20, 30, 55) #Se define con ()
 ()#Va vacio 
 
-# Diccionarios
+# Diccionarios {}
 
 print(type({
   "name":"Jhon",
