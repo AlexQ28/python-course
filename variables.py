@@ -29,6 +29,17 @@ book_name = "I Robot" #Snake Case
 bookName = "Digital Features" #Camel Case
 BookName = "asasasass"  #Pascal Case
 
+#Constantes con Mayusculas
+PI = 3.1416
+
+MY_NAME = "Alex" 
+
+#Las variables pueden ser reasignadas
+book_name = "I Robot"
+book_name = 12121221
+
+
+
 
 
 
